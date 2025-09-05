@@ -1,4 +1,5 @@
 # 🌿 Vegetation Map of Tanzania 
+<img width="2716" height="3661" alt="Tanzania_Vegetaion_Map_300" src="https://github.com/user-attachments/assets/5f3020f3-7028-458b-bd97-61d1061d638a" />
 
 ## 📌 Overview
 
